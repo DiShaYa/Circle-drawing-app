@@ -1,0 +1,17 @@
+C:\Users\Пользователь\source\repos\Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\Пользователь\source\repos\Prog1\Prog1\bin\Debug\Prog1.exe
+C:\Users\Пользователь\source\repos\Prog1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.g.resources
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.exe
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\Prog1.pdb
+C:\Users\Пользователь\source\repos\Prog1\Prog1\obj\Debug\GeneratedInternalTypeHelper.g.cs
